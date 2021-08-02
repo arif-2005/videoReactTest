@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/videoReactTest/static/css/main.b49f6740.chunk.css",
-    "main.js": "/videoReactTest/static/js/main.85ff7783.chunk.js",
-    "main.js.map": "/videoReactTest/static/js/main.85ff7783.chunk.js.map",
+    "main.js": "/videoReactTest/static/js/main.93f4aa6f.chunk.js",
+    "main.js.map": "/videoReactTest/static/js/main.93f4aa6f.chunk.js.map",
     "runtime-main.js": "/videoReactTest/static/js/runtime-main.810c1fa7.js",
     "runtime-main.js.map": "/videoReactTest/static/js/runtime-main.810c1fa7.js.map",
-    "static/js/2.0b6c0602.chunk.js": "/videoReactTest/static/js/2.0b6c0602.chunk.js",
-    "static/js/2.0b6c0602.chunk.js.map": "/videoReactTest/static/js/2.0b6c0602.chunk.js.map",
+    "static/js/2.180c37b3.chunk.js": "/videoReactTest/static/js/2.180c37b3.chunk.js",
+    "static/js/2.180c37b3.chunk.js.map": "/videoReactTest/static/js/2.180c37b3.chunk.js.map",
     "index.html": "/videoReactTest/index.html",
     "static/css/main.b49f6740.chunk.css.map": "/videoReactTest/static/css/main.b49f6740.chunk.css.map",
-    "static/js/2.0b6c0602.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.0b6c0602.chunk.js.LICENSE.txt"
+    "static/js/2.180c37b3.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.180c37b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.810c1fa7.js",
-    "static/js/2.0b6c0602.chunk.js",
+    "static/js/2.180c37b3.chunk.js",
     "static/css/main.b49f6740.chunk.css",
-    "static/js/main.85ff7783.chunk.js"
+    "static/js/main.93f4aa6f.chunk.js"
   ]
 }
