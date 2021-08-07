@@ -4,6 +4,23 @@ object-assign
 @license MIT
 */
 
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+ * @license MIT
+ * @copyright Kirill Shestakov 2017
+ * @see https://github.com/guitarino/resize-sensor--react/
+ * ----
+ * Rework of https://github.com/procurios/ResizeSensor
+ */
+
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
