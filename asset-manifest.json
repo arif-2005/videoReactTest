@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/videoReactTest/static/css/main.1a721391.chunk.css",
-    "main.js": "/videoReactTest/static/js/main.45b22962.chunk.js",
-    "main.js.map": "/videoReactTest/static/js/main.45b22962.chunk.js.map",
+    "main.css": "/videoReactTest/static/css/main.e189ae1d.chunk.css",
+    "main.js": "/videoReactTest/static/js/main.b3978171.chunk.js",
+    "main.js.map": "/videoReactTest/static/js/main.b3978171.chunk.js.map",
     "runtime-main.js": "/videoReactTest/static/js/runtime-main.810c1fa7.js",
     "runtime-main.js.map": "/videoReactTest/static/js/runtime-main.810c1fa7.js.map",
-    "static/css/2.c543f86f.chunk.css": "/videoReactTest/static/css/2.c543f86f.chunk.css",
-    "static/js/2.572da4ec.chunk.js": "/videoReactTest/static/js/2.572da4ec.chunk.js",
-    "static/js/2.572da4ec.chunk.js.map": "/videoReactTest/static/js/2.572da4ec.chunk.js.map",
+    "static/css/2.a9b876c2.chunk.css": "/videoReactTest/static/css/2.a9b876c2.chunk.css",
+    "static/js/2.fc7f3bc0.chunk.js": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js",
+    "static/js/2.fc7f3bc0.chunk.js.map": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js.map",
     "index.html": "/videoReactTest/index.html",
-    "static/css/2.c543f86f.chunk.css.map": "/videoReactTest/static/css/2.c543f86f.chunk.css.map",
-    "static/css/main.1a721391.chunk.css.map": "/videoReactTest/static/css/main.1a721391.chunk.css.map",
-    "static/js/2.572da4ec.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.572da4ec.chunk.js.LICENSE.txt",
+    "static/css/2.a9b876c2.chunk.css.map": "/videoReactTest/static/css/2.a9b876c2.chunk.css.map",
+    "static/css/main.e189ae1d.chunk.css.map": "/videoReactTest/static/css/main.e189ae1d.chunk.css.map",
+    "static/js/2.fc7f3bc0.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js.LICENSE.txt",
     "static/media/arrow_back_black.d4d4c518.svg": "/videoReactTest/static/media/arrow_back_black.d4d4c518.svg",
     "static/media/horse.feca5bad.ogv": "/videoReactTest/static/media/horse.feca5bad.ogv",
     "static/media/mic_off_white.6535e890.svg": "/videoReactTest/static/media/mic_off_white.6535e890.svg",
@@ -28,9 +28,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.810c1fa7.js",
-    "static/css/2.c543f86f.chunk.css",
-    "static/js/2.572da4ec.chunk.js",
-    "static/css/main.1a721391.chunk.css",
-    "static/js/main.45b22962.chunk.js"
+    "static/css/2.a9b876c2.chunk.css",
+    "static/js/2.fc7f3bc0.chunk.js",
+    "static/css/main.e189ae1d.chunk.css",
+    "static/js/main.b3978171.chunk.js"
   ]
 }
