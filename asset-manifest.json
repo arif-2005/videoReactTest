@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/videoReactTest/static/css/main.e189ae1d.chunk.css",
-    "main.js": "/videoReactTest/static/js/main.b3978171.chunk.js",
-    "main.js.map": "/videoReactTest/static/js/main.b3978171.chunk.js.map",
+    "main.css": "/videoReactTest/static/css/main.8762094a.chunk.css",
+    "main.js": "/videoReactTest/static/js/main.7ef6117f.chunk.js",
+    "main.js.map": "/videoReactTest/static/js/main.7ef6117f.chunk.js.map",
     "runtime-main.js": "/videoReactTest/static/js/runtime-main.810c1fa7.js",
     "runtime-main.js.map": "/videoReactTest/static/js/runtime-main.810c1fa7.js.map",
     "static/css/2.a9b876c2.chunk.css": "/videoReactTest/static/css/2.a9b876c2.chunk.css",
-    "static/js/2.fc7f3bc0.chunk.js": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js",
-    "static/js/2.fc7f3bc0.chunk.js.map": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js.map",
+    "static/js/2.653fde46.chunk.js": "/videoReactTest/static/js/2.653fde46.chunk.js",
+    "static/js/2.653fde46.chunk.js.map": "/videoReactTest/static/js/2.653fde46.chunk.js.map",
     "index.html": "/videoReactTest/index.html",
     "static/css/2.a9b876c2.chunk.css.map": "/videoReactTest/static/css/2.a9b876c2.chunk.css.map",
-    "static/css/main.e189ae1d.chunk.css.map": "/videoReactTest/static/css/main.e189ae1d.chunk.css.map",
-    "static/js/2.fc7f3bc0.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.fc7f3bc0.chunk.js.LICENSE.txt",
+    "static/css/main.8762094a.chunk.css.map": "/videoReactTest/static/css/main.8762094a.chunk.css.map",
+    "static/js/2.653fde46.chunk.js.LICENSE.txt": "/videoReactTest/static/js/2.653fde46.chunk.js.LICENSE.txt",
+    "static/media/Google_Logo.66ae25be.svg": "/videoReactTest/static/media/Google_Logo.66ae25be.svg",
     "static/media/arrow_back_black.d4d4c518.svg": "/videoReactTest/static/media/arrow_back_black.d4d4c518.svg",
     "static/media/horse.feca5bad.ogv": "/videoReactTest/static/media/horse.feca5bad.ogv",
     "static/media/mic_off_white.6535e890.svg": "/videoReactTest/static/media/mic_off_white.6535e890.svg",
@@ -29,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.810c1fa7.js",
     "static/css/2.a9b876c2.chunk.css",
-    "static/js/2.fc7f3bc0.chunk.js",
-    "static/css/main.e189ae1d.chunk.css",
-    "static/js/main.b3978171.chunk.js"
+    "static/js/2.653fde46.chunk.js",
+    "static/css/main.8762094a.chunk.css",
+    "static/js/main.7ef6117f.chunk.js"
   ]
 }
