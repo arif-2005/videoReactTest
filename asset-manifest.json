@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/videoReactTest/static/css/main.d9d3687c.chunk.css",
-    "main.js": "/videoReactTest/static/js/main.19190029.chunk.js",
-    "main.js.map": "/videoReactTest/static/js/main.19190029.chunk.js.map",
+    "main.js": "/videoReactTest/static/js/main.653f1db4.chunk.js",
+    "main.js.map": "/videoReactTest/static/js/main.653f1db4.chunk.js.map",
     "runtime-main.js": "/videoReactTest/static/js/runtime-main.810c1fa7.js",
     "runtime-main.js.map": "/videoReactTest/static/js/runtime-main.810c1fa7.js.map",
     "static/css/2.a9b876c2.chunk.css": "/videoReactTest/static/css/2.a9b876c2.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.a9b876c2.chunk.css",
     "static/js/2.653fde46.chunk.js",
     "static/css/main.d9d3687c.chunk.css",
-    "static/js/main.19190029.chunk.js"
+    "static/js/main.653f1db4.chunk.js"
   ]
 }
